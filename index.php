@@ -1,6 +1,6 @@
 <?d
 dddddddsssddddddddddddddっっっっｄddddddっｄ」ddddd
-dddddddっっっｄdddddd
+dddddddっっっｄdddddddddd
 ?>s
 s
 test
