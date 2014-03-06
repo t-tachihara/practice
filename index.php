@@ -1,5 +1,5 @@
 <?d
-dddddddsssddddddddddddddっっっっｄddd
+dddddddsssddddddddddddddっっっっｄddddddっｄ」
 ?>s
 s
 test
