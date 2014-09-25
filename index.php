@@ -1,5 +1,5 @@
 <?d
-dddddddsssddddddddddddddfdfadfaddddっっｓdっっっっｄddddddっｄ」ddddd
+dddddddsssddddddddddddddfdfadfadっっっっｄddddddっｄ」ddddd
 dddddddっっっｄdddddddddddddddddd
 ?>s
 s
