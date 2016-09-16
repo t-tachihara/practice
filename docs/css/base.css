@@ -1,0 +1,159 @@
+@charset "utf-8";
+
+/*html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, img, strong,
+table, tbody, thead, tr, th, td, dl, dt, dd, ol, ul, li, form, label {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  outline: 0;
+  font-size: 100%;
+  background: transparent;
+  vertical-align: baseline;
+}
+
+body {
+  line-height: 1;
+  font-family: sans-serif;
+}*/
+
+html,
+body {
+  height: 100%;
+}
+
+img {  
+  line-height: 0;
+  vertical-align: bottom;
+}
+
+input,
+select {
+  margin-right: 3px;
+  vertical-align: middle;
+}
+
+.container {
+  width: 950px;
+}
+
+.container .padding-anel {
+  vertical-align: top;
+  display: inline-block;
+}
+
+/* header */
+
+.header {}
+
+/* nav */
+
+.nav {}
+
+/* topic-path */
+
+.topic-path {}
+
+/* keyvisual */
+
+.keyvisual {}
+
+/* contents */
+
+.contents {}
+
+/* content */
+
+.content {}
+
+/* subcontent */
+
+.subcontent {}
+
+/* footer */
+
+.footer {}
+
+/* common property */
+
+.red   { color: #cc4659; }
+.white { color: #ffffff; }
+
+.bold { font-weight: bold; }
+
+.font-size75  { font-size: 75%;  }
+.font-size80  { font-size: 80%;  }
+.font-size90  { font-size: 90%;  }
+.font-size95  { font-size: 95%;  }
+.font-size110 { font-size: 110%; }
+.font-size120 { font-size: 120%; }
+.font-size130 { font-size: 130%; }
+
+.align-right  { text-align: right; }
+.align-center { text-align: center; }
+
+.margin0         { margin:         0% }
+.margin-top0     { margin-top:     0% }
+.margin-right0   { margin-right:   0% }
+.margin-bottom0  { margin-bottom:  0% }
+.margin-left0    { margin-left:    0% }
+.margin-top5     { margin-top:     5% }
+.margin-top10    { margin-top:    10% }
+.margin-top20    { margin-top:    20% }
+.margin-top30    { margin-top:    30% }
+.margin-top40    { margin-top:    40% }  
+.margin-top50    { margin-top:    50% }
+.margin-right5   { margin-right:   5% }
+.margin-right10  { margin-right:  10% }
+.margin-right20  { margin-right:  20% }
+.margin-right30  { margin-right:  30% }
+.margin-right40  { margin-right:  40% }
+.margin-right50  { margin-right:  50% }
+.margin-bottom5  { margin-bottom:  5% }
+.margin-bottom10 { margin-bottom: 10% }
+.margin-bottom20 { margin-bottom: 20% }
+.margin-bottom30 { margin-bottom: 30% }
+.margin-bottom40 { margin-bottom: 40% }
+.margin-bottom50 { margin-bottom: 50% }
+.margin-left5    { margin-left:    5% }
+.margin-left10   { margin-left:   10% }
+.margin-left20   { margin-left:   20% }
+.margin-left30   { margin-left:   30% }
+.margin-left40   { margin-left:   40% }
+.margin-left50   { margin-left:   50% }
+
+.padding0         { padding:         0% }
+.padding-top0     { padding-top:     0% }
+.padding-right0   { padding-right:   0% }
+.padding-bottom0  { padding-bottom:  0% }
+.padding-left0    { padding-left:    0% }
+.padding-top5     { padding-top:     5% }
+.padding-top10    { padding-top:    10% }
+.padding-top20    { padding-top:    20% }
+.padding-top30    { padding-top:    30% }
+.padding-top40    { padding-top:    40% }  
+.padding-top50    { padding-top:    50% }
+.padding-right5   { padding-right:   5% }
+.padding-right10  { padding-right:  10% }
+.padding-right20  { padding-right:  20% }
+.padding-right30  { padding-right:  30% }
+.padding-right40  { padding-right:  40% }
+.padding-right50  { padding-right:  50% }
+.padding-bottom5  { padding-bottom:  5% }
+.padding-bottom10 { padding-bottom: 10% }
+.padding-bottom20 { padding-bottom: 20% }
+.padding-bottom30 { padding-bottom: 30% }
+.padding-bottom40 { padding-bottom: 40% }
+.padding-bottom50 { padding-bottom: 50% }
+.padding-left5    { padding-left:    5% }
+.padding-left10   { padding-left:   10% }
+.padding-left20   { padding-left:   20% }
+.padding-left30   { padding-left:   30% }
+.padding-left40   { padding-left:   40% }
+.padding-left50   { padding-left:   50% }
+
+
+@media screen and (min-width: 855px) {  }
+@media screen and (min-width: 641px) and (max-width: 854px) {  }
+@media screen and (min-width: 480px) and (max-width: 640px) {  }
+@media screen and (max-width: 479px) {  }

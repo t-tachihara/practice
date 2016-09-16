@@ -1,0 +1,170 @@
+@charset "utf-8";
+
+/*html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, img, strong,
+table, tbody, thead, tr, th, td, dl, dt, dd, ol, ul, li, form, label {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  outline: 0;
+  font-size: 100%;
+  background: transparent;
+  vertical-align: baseline;
+}
+
+body {
+  line-height: 1;
+  font-family: sans-serif;
+}*/
+
+html,
+body {
+    height: 100%;
+}
+
+img {  
+    line-height: 0;
+    vertical-align: bottom;
+}
+
+input,
+select {
+    margin-right: 3px;
+    vertical-align: middle;
+}
+
+.container {
+    width: 950px;
+}
+
+.container .panel {
+    vertical-align: top;
+    display: inline-block;
+}
+
+/* header */
+
+.header {}
+
+/* nav */
+
+.nav {}
+
+/* topic-path */
+
+.topic-path {}
+
+/* keyvisual */
+
+.keyvisual {}
+
+/* contents */
+
+.contents {}
+
+/* content */
+
+.content {}
+
+/* subcontent */
+
+.subcontent {}
+
+/* footer */
+
+.footer {}
+
+/* common property */
+
+.red   { color: #cc4659; }
+.white { color: #ffffff; }
+
+.bold { font-weight: bold; }
+
+.fs75  { font-size: 75%;  }
+.fs80  { font-size: 80%;  }
+.fs90  { font-size: 90%;  }
+.fs95  { font-size: 95%;  }
+.fs110 { font-size: 110%; }
+.fs120 { font-size: 120%; }
+.fs130 { font-size: 130%; }
+
+.w5   { width: 5%   }
+.w10  { width: 10%  }
+.w15  { width: 15%  }
+.w20  { width: 20%  }
+.w25  { width: 25%  }
+.w30  { width: 30%  }
+.w33  { width: 33%  }
+.w40  { width: 40%  }
+.w45  { width: 45%  }
+.w50  { width: 50%  }
+.w55  { width: 55%  }
+.w60  { width: 60%  }
+.w70  { width: 70%  }
+.w75  { width: 75%  }
+.w80  { width: 80%  }
+.w85  { width: 85%  }
+.w90  { width: 90%  }
+.w95  { width: 95%  }
+.w100 { width: 100% }
+
+.m0   { margin:         0px }
+.mt0  { margin-top:     0px }
+.mr0  { margin-right:   0px }
+.mb0  { margin-bottom:  0px }
+.ml0  { margin-left:    0px }
+.mt5  { margin-top:     5px }
+.mt10 { margin-top:    10px }
+.mt20 { margin-top:    20px }
+.mt30 { margin-top:    30px }
+.mt40 { margin-top:    40px }  
+.mt50 { margin-top:    50px }
+.mr5  { margin-right:   5px }
+.mr10 { margin-right:  10px }
+.mr20 { margin-right:  20px }
+.mr30 { margin-right:  30px }
+.mr40 { margin-right:  40px }
+.mr50 { margin-right:  50px }
+.mb5  { margin-bottom:  5px }
+.mb10 { margin-bottom: 10px }
+.mb20 { margin-bottom: 20px }
+.mb30 { margin-bottom: 30px }
+.mb40 { margin-bottom: 40px }
+.mb50 { margin-bottom: 50px }
+.ml5  { margin-left:    5px }
+.ml10 { margin-left:   10px }
+.ml20 { margin-left:   20px }
+.ml30 { margin-left:   30px }
+.ml40 { margin-left:   40px }
+.ml50 { margin-left:   50px }
+
+.p0   { padding:         0px }
+.pt0  { padding-top:     0px }
+.pr0  { padding-right:   0px }
+.pb0  { padding-bottom:  0px }
+.pl0  { padding-left:    0px }
+.pt5  { padding-top:     5px }
+.pt10 { padding-top:    10px }
+.pt20 { padding-top:    20px }
+.pt30 { padding-top:    30px }
+.pt40 { padding-top:    40px }  
+.pt50 { padding-top:    50px }
+.pr5  { padding-right:   5px }
+.pr10 { padding-right:  10px }
+.pr20 { padding-right:  20px }
+.pr30 { padding-right:  30px }
+.pr40 { padding-right:  40px }
+.pr50 { padding-right:  50px }
+.pb5  { padding-bottom:  5px }
+.pb10 { padding-bottom: 10px }
+.pb20 { padding-bottom: 20px }
+.pb30 { padding-bottom: 30px }
+.pb40 { padding-bottom: 40px }
+.pb50 { padding-bottom: 50px }
+.pl5  { padding-left:    5px }
+.pl10 { padding-left:   10px }
+.pl20 { padding-left:   20px }
+.pl30 { padding-left:   30px }
+.pl40 { padding-left:   40px }
+.pl50 { padding-left:   50px }
